@@ -1,2 +1,29 @@
-# SeatSelect
-选择座位vue版本 包括自动选择优选座位 防止产生留空座位 自适应屏幕大小
+# hall-seat
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
