@@ -116,7 +116,7 @@ export default {
     // 请求影院列表数据
     getCinemaList: function () {
       // mock数据
-      this.$get('https://www.easy-mock.com/mock/5c80cd2c761c94306e4ad8b7/hall-seat/hall-seat')
+      this.$get('/mock/seatLove.json')
         .then((response) => {
           console.log('座位返回response------>>>>', response)
           if (response.errorCode !== 0) {
