@@ -1,6 +1,6 @@
 # SeatSelect (vue移动端座位选择)
 
-> [点击这里demo预览](https://www.xollipop.top/ "请使用手机访问")
+> [点击这里demo预览](https://zenghao0219.github.io/SeatSelect-demo/ "请使用手机访问")
 >
 > 此次项目是基于vue编写的类似淘票票和猫眼的电影`移动端`锁座页面,其中包含功能
 >
