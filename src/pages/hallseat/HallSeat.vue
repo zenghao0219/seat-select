@@ -22,7 +22,7 @@
       <template slot="thumbnail-seat-solt">
          <template v-for="seatItem in seatList" >
             <div class="thumbnailSeatClass" :key="'thumbnail'+seatItem.id" :style="{height:thumbnailHeight +'rem',
-            width:thumbnailWidth +'rem',
+            width:thumbnailWidth +'rem',background: thumbnailBackgroud(seatItem),
             top:seatItem.gRow * thumbnailPositionDistin +'rem',left:seatItem.gCol * thumbnailPositionDistin +'rem'}">
             </div>
           </template>
@@ -284,6 +284,17 @@ export default {
     },
     loading: function (value) {
       this.load = value
+    },
+    thumbnailBackgroud: function (seatItem) {
+      if (seatItem.nowIcon === seatItem.selectedIcon) {
+        return 'green'
+      } else if (seatItem.nowIcon === seatItem.soldedIcon) {
+        return 'red'
+      } else if (seatItem.nowIcon === seatItem.fixIcon) {
+        return 'red'
+      } else {
+        return 'white'
+      }
     }
   },
   computed: {
@@ -389,7 +400,6 @@ export default {
         line-height 35px
     .thumbnailSeatClass
       position absolute
-      background white
     .seatBox
       position absolute
       left 50%
