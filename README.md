@@ -21,7 +21,7 @@
 
 #### 智能选座示例
 ```
-以下为多个影厅的智能选座演示
+以下为多个影厅的智能选座gif图演示
 ```
 <img src="https://www.xollipop.top/soogif1.gif" width="200" hegiht="300"/>
 
@@ -31,7 +31,7 @@
 
 #### 智能选座示例
 ```
-以下为空位检测逻辑
+以下为空位检测逻辑gif图演示
 ```
 <img src="https://www.xollipop.top/soogif4.gif" width="200" hegiht="300"/>
 
