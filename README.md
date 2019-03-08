@@ -17,27 +17,23 @@
 > - 情侣座位的选择逻辑
 #### 项目截图
 
-![one](https://www.xollipop.top/demo.jpg)
+<img src="https://www.xollipop.top/demo.jpg" width="200" hegiht="300"/>
 
 #### 智能选座示例
 ```
 以下为多个影厅的智能选座演示
-
-gif加载有点慢,等加载完成再查看
 ```
-![one](https://www.xollipop.top/soogif1.gif)
+<img src="https://www.xollipop.top/soogif1.gif" width="200" hegiht="300"/>
 
-![two](https://www.xollipop.top/soogif2.gif)
+<img src="https://www.xollipop.top/soogif2.gif" width="200" hegiht="300"/>
 
-![three](https://www.xollipop.top/soogif3.gif)
+<img src="https://www.xollipop.top/soogif3.gif" width="200" hegiht="300"/>
 
 #### 智能选座示例
 ```
 以下为空位检测逻辑
-
-gif加载有点慢,等加载完成再查看
 ```
-![one](https://www.xollipop.top/soogif4.gif)
+<img src="https://www.xollipop.top/soogif4.gif" width="200" hegiht="300"/>
 
 ## Project setup(初始项目)
 ```
