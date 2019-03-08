@@ -18,7 +18,9 @@
 
 #### 智能选座示例
 ```
-以下为多个影厅的智能选座演示 gif加载有点慢 没加载完成之前会掉帧 等加载完成再查看
+以下为多个影厅的智能选座演示
+
+gif加载有点慢,等加载完成再查看
 ```
 ![one](https://www.xollipop.top/quickSelect.gif)
 ![two](https://www.xollipop.top/quickSelect2.gif)
@@ -26,7 +28,9 @@
 
 #### 智能选座示例
 ```
-以下为空位检测逻辑 gif加载有点慢 没加载完成之前会掉帧 等加载完成再查看
+以下为空位检测逻辑
+
+gif加载有点慢,等加载完成再查看
 ```
 ![one](https://www.xollipop.top/liukong.gif)
 
