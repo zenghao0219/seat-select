@@ -35,17 +35,58 @@
 ```
 <img src="https://www.xollipop.top/soogif4.gif" width="200" hegiht="300"/>
 
-## Project setup(初始项目)
+### 项目依赖组件
+
+该项目引用到的外部常用组件
+
+> [amfe-flexible](https://github.com/amfe/lib-flexible "阿里巴巴弹性rem布局")
+>
+> [vue-touch](https://github.com/vuejs/vue-touch "vue-touch")
+>
+> [better-scroll](https://github.com/ustbhuangyi/better-scroll "better-scroll")
+
+### 目录结构
+```
+.public
+├── index.html
+└── mock
+    └── seatLove.json(mock数据在这里)
+
+.src
+├── App.vue --(入口组件)
+├── assets --(静态文件)
+│   ├── images
+│   │   └── loading.gif --(加载图片)
+│   └── stylus
+│       ├── golbal.styl --(全局styl)
+│       └── reset.styl --(移动端重写CSS)
+├── components --(公用组件)
+│   ├── Header.vue --(头部公用组件)
+│   └── loading.vue --(载入公用组件)
+├── http.js (axios工具类)
+├── main.js (vue入口js)
+├── pages --(组件目录)
+│   └── hallseat
+│       ├── HallSeat.vue --(选座父组件)
+│       └── component --(选座子组件目录)
+│           ├── ConfirmLock.vue --(确认选择组件)
+│           ├── PlanDetail.vue --(电影信息组件)
+│           ├── QuickSelectTab.vue --(智能选座组件)
+│           ├── SeatArea.vue --(座位图生成组件)
+│           └── SelectedTab.vue --(已选座展示组件)
+└── router.js
+```
+### 初始化项目 (Project setup)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development (运行开发环境)
+### 直接运行开发环境 (Compiles and hot-reloads for development)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production(打包)
+### 项目打包 (Compiles and minifies for production)
 ```
 npm run build
 ```
