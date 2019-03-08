@@ -25,9 +25,11 @@
 
 gif加载有点慢,等加载完成再查看
 ```
-![one](https://www.xollipop.top/quickSelect.gif)
-![two](https://www.xollipop.top/quickSelect2.gif)
-![three](https://www.xollipop.top/quickSelect3.gif)
+![one](https://www.xollipop.top/soogif1.gif)
+
+![two](https://www.xollipop.top/soogif2.gif)
+
+![three](https://www.xollipop.top/soogif3.gif)
 
 #### 智能选座示例
 ```
@@ -35,7 +37,7 @@ gif加载有点慢,等加载完成再查看
 
 gif加载有点慢,等加载完成再查看
 ```
-![one](https://www.xollipop.top/liukong.gif)
+![one](https://www.xollipop.top/soogif4.gif)
 
 ## Project setup(初始项目)
 ```
