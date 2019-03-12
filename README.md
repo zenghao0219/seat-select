@@ -3,7 +3,7 @@
 >
 > 如果这个项目对你有帮助 :D 请点个star吧~
 
-> [点击这里demo预览](https://zenghao0219.github.io/seat-select-demo/ "请使用手机访问")
+> [点击这里demo预览](https://seat-select.netlify.com/ "请使用手机访问")
 >
 > 此次项目是基于vue编写的类似淘票票和猫眼的电影`移动端`锁座页面,经过超过百个影厅的测试,其中包含功能
 >
