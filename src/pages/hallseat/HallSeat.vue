@@ -1,7 +1,7 @@
 /*
   @author zenghao0219
   @description 座位页面父级组件,控制点击选座,数据加载处理
-  @updateDate 最后更新时间为:2019-02-29
+  @updateDate 最后更新时间为:2019-04-29
 */
 <template>
   <div class="wapper">
@@ -105,7 +105,7 @@ export default {
   },
   mounted () {
     this.loading(true)
-    this.getCinemaList()
+    this.getSeatList()
     this.loading(false)
   },
   // // fixme 这里确认是否还需要
@@ -119,7 +119,7 @@ export default {
   // },
   methods: {
     // 请求影院列表数据
-    getCinemaList: function () {
+    getSeatList: function () {
       // mock数据
       this.$get('/mock/seatLove.json')
         .then((response) => {
