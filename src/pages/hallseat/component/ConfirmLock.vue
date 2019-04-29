@@ -1,4 +1,8 @@
-<!--  -->
+/*
+  @author zenghao0219
+  @description 用于选定座位后的检测空位逻辑,和下单逻辑
+  @updateDate 最后更新时间为:2019-02-29
+*/
 <template>
 <div class='confirm' @click="lockSeat()">
   确认选座

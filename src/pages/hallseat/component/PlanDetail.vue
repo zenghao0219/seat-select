@@ -1,4 +1,8 @@
-<!--  -->
+/*
+  @author zenghao0219
+  @description 上方用于展示信息模块
+  @updateDate 最后更新时间为:2019-02-21
+*/
 <template>
   <div>
     <div class="plan-detail">

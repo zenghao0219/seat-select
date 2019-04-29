@@ -1,4 +1,8 @@
-<!--  -->
+/*
+  @author zenghao0219
+  @description 用于座位图下发已选座位的展示
+  @updateDate 最后更新时间为:2019-02-20
+*/
 <template>
   <div class='selected'>
     <div class="text">已选座位:</div>

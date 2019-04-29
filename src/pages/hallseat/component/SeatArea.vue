@@ -1,3 +1,8 @@
+/*
+  @author zenghao0219
+  @description 用于动态生成座位图,缩略图,座位左边栏
+  @updateDate 最后更新时间为:2019-02-21
+*/
 <template>
     <div class="activity-area" :style="{ width:seatAreaWidthRem + 'rem',height:seatAreaHeightRem + 'rem'}">
       <div class="screen">

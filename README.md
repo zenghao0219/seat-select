@@ -1,4 +1,4 @@
-# SeatSelect (vue移动端座位选择)
+# seat-select (vue移动端座位选择)
 > if this project is useful to you :D , Please star this project~
 >
 > 如果这个项目对你有帮助 :D 请点个star吧~

@@ -1,3 +1,8 @@
+/*
+  @author zenghao0219
+  @description 座位页面父级组件,控制点击选座,数据加载处理
+  @updateDate 最后更新时间为:2019-02-29
+*/
 <template>
   <div class="wapper">
     <!--头部 开始-->
