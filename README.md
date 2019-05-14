@@ -22,8 +22,8 @@
 #### 之后的计划
 
 - 文档补全,功能实现解析
-- 后台控制端,可以编辑座位图提供接口生成座位图JSON
-### README导航
+- 后台控制端,可以编辑座位图提供接口生成座位图JSON([进行中..](https://github.com/zenghao0219/seat-select-controller))
+### 导航
 
 [座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
 
