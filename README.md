@@ -13,11 +13,11 @@
 
 ### 座位图体系项目导航
 
-- [移动端](https://github.com/zenghao0219/seat-select-controller)
+- [移动端 seat-select](https://github.com/zenghao0219/seat-select)
 
-- [后台控制端](https://github.com/zenghao0219/seat-select-controller)
+- [后台控制端 seat-select-controller](https://github.com/zenghao0219/seat-select-controller)
 
-- [数据接口端](https://github.com/zenghao0219/seat-select-api)
+- [数据接口端 seat-select-api](https://github.com/zenghao0219/seat-select-api)
 
 - [座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
 
