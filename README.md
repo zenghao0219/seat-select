@@ -1,4 +1,15 @@
 # seat-select (vue移动端座位选择)
+
+![](https://github.com/zenghao0219/files-store/blob/master/seats/process1.png?raw=true)
+
+
+![](https://img.shields.io/github/stars/zenghao0219/seat-select.svg?style=social)
+![](https://img.shields.io/github/forks/zenghao0219/seat-select.svg?style=social)
+![](http://progressed.io/bar/100?title=completed)
+![](https://img.shields.io/badge/language-vue-green.svg)
+![](https://img.shields.io/github/package-json/dependency-version/zenghao0219/seat-select/vue.svg)
+![](https://img.shields.io/github/license/zenghao0219/seat-select.svg)
+![](https://img.shields.io/github/release/zenghao0219/seat-select.svg)
 > if this project is useful to you :D , Please star this project~
 >
 > 如果这个项目对你有帮助 :D 请点个star吧~
@@ -22,10 +33,27 @@
 #### 之后的计划
 
 - 文档补全,功能实现解析
-- 后台控制端,可以编辑座位图提供接口生成座位图JSON([进行中..](https://github.com/zenghao0219/seat-select-controller))
-### 导航
+- ~~后台控制端,可以编辑座位图提供接口生成座位图JSON(2019.06.03开发完成,参考项目导航)~~
 
-[座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
+### 赞助者名单
+首先特别感谢赞助者的所有朋友们,真的特别感谢!(所有贡献者列表请在[此处](https://github.com/zenghao0219/contributors))
+<details>
+<summary>点击此处展开查看赞助最多的几位朋友</summary>
+
+1. [*磊 (KaelLuo) (¥6.66)](http://github.com/KaelLuo)
+2. *磊 (涅槃) (¥100)
+3. *升平 (¥8.88)
+</details>
+
+### 座位图体系项目导航
+
+- [移动端](https://github.com/zenghao0219/seat-select-controller)
+
+- [后台控制端](https://github.com/zenghao0219/seat-select-controller)
+
+- [数据接口端](https://github.com/zenghao0219/seat-select-api)
+
+- [座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
 
 #### 智能选座示例
 ```
@@ -47,11 +75,13 @@
 
 该项目引用到的外部常用组件
 
-> [amfe-flexible](https://github.com/amfe/lib-flexible "阿里巴巴弹性rem布局")
+> 1. [amfe-flexible](https://github.com/amfe/lib-flexible "阿里巴巴弹性rem布局")
 >
-> [vue-touch](https://github.com/vuejs/vue-touch "vue-touch")
+> 2. [vue-touch](https://github.com/vuejs/vue-touch "vue-touch")
 >
-> [better-scroll](https://github.com/ustbhuangyi/better-scroll "better-scroll")
+> 3. [better-scroll](https://github.com/ustbhuangyi/better-scroll "better-scroll")
+>
+> 4. [axios](https://github.com/axios/axios "axios")
 
 ### 目录结构
 ```
@@ -105,6 +135,6 @@ npm run build
 ### 项目捐赠
 写代码不易...请作者喝杯咖啡呗?
 
-<img src="https://www.xollipop.top/code.png" width="200" hegiht="300"/>
+![](https://www.xollipop.top/pay.jpeg)
 
 (PS: 支付的时候 请带上你的名字/昵称呀 会维护一个赞助列表~ )
