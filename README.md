@@ -10,6 +10,18 @@
 ![](https://img.shields.io/github/package-json/dependency-version/zenghao0219/seat-select/vue.svg)
 ![](https://img.shields.io/github/license/zenghao0219/seat-select.svg)
 ![](https://img.shields.io/github/release/zenghao0219/seat-select.svg)
+
+### 座位图体系项目导航
+
+- [移动端](https://github.com/zenghao0219/seat-select-controller)
+
+- [后台控制端](https://github.com/zenghao0219/seat-select-controller)
+
+- [数据接口端](https://github.com/zenghao0219/seat-select-api)
+
+- [座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
+
+
 > if this project is useful to you :D , Please star this project~
 >
 > 如果这个项目对你有帮助 :D 请点个star吧~
@@ -44,16 +56,6 @@
 2. *磊 (涅槃) (¥100)
 3. *升平 (¥8.88)
 </details>
-
-### 座位图体系项目导航
-
-- [移动端](https://github.com/zenghao0219/seat-select-controller)
-
-- [后台控制端](https://github.com/zenghao0219/seat-select-controller)
-
-- [数据接口端](https://github.com/zenghao0219/seat-select-api)
-
-- [座位JSON结构解析](https://github.com/zenghao0219/seat-select/tree/master/public/mock)
 
 #### 智能选座示例
 ```
