@@ -40,7 +40,7 @@
 > - 情侣座位的选择逻辑
 #### 项目截图
 
-<img src="https://www.xollipop.top/demo.jpg" width="200" hegiht="300"/>
+<img src="https://github.com/zenghao0219/files-store/blob/master/seats/demo.jpg?raw=true" width="200" hegiht="300"/>
 
 #### 之后的计划
 
@@ -61,17 +61,17 @@
 ```
 以下为多个影厅的智能选座gif图演示
 ```
-<img src="https://www.xollipop.top/soogif1.gif" width="200" hegiht="300"/>
+<img src="https://github.com/zenghao0219/files-store/blob/master/seats/soogif1.gif?raw=true" width="200" hegiht="300"/>
 
-<img src="https://www.xollipop.top/soogif2.gif" width="200" hegiht="300"/>
+<img src="https://github.com/zenghao0219/files-store/blob/master/seats/soogif2.gif?raw=true" width="200" hegiht="300"/>
 
-<img src="https://www.xollipop.top/soogif3.gif" width="200" hegiht="300"/>
+<img src="https://github.com/zenghao0219/files-store/blob/master/seats/soogif3.gif?raw=true" width="200" hegiht="300"/>
 
 #### 智能选座示例
 ```
 以下为空位检测逻辑gif图演示
 ```
-<img src="https://www.xollipop.top/soogif4.gif" width="200" hegiht="300"/>
+<img src="https://github.com/zenghao0219/files-store/blob/master/seats/soogif4.gif?raw=true" width="200" hegiht="300"/>
 
 ### 项目依赖组件
 
