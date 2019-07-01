@@ -137,6 +137,6 @@ npm run build
 ### 项目捐赠
 写代码不易...请作者喝杯咖啡呗?
 
-![](https://www.xollipop.top/pay.jpeg)
+![](https://github.com/zenghao0219/files-store/blob/master/pay.jpeg?raw=true)
 
 (PS: 支付的时候 请带上你的名字/昵称呀 会维护一个赞助列表~ )
