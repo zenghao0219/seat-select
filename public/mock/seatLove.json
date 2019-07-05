@@ -21,7 +21,7 @@
           "col": "4",
           "gRow": 1,
           "gCol": 8,
-          "type": "0",
+          "type": "0-2",
           "flag": "0",
           "price": "69"
       },
@@ -51,7 +51,7 @@
           "col": "5",
           "gRow": 1,
           "gCol": 9,
-          "type": "0",
+          "type": "0-2",
           "flag": "0",
           "price": "69"
       },
@@ -81,7 +81,7 @@
           "col": "6",
           "gRow": 1,
           "gCol": 10,
-          "type": "0",
+          "type": "0-2",
           "flag": "0",
           "price": "69"
       },
@@ -191,7 +191,7 @@
           "col": "6",
           "gRow": 2,
           "gCol": 9,
-          "type": "0",
+          "type": "0-3",
           "flag": "0",
           "price": "69"
       },
@@ -1131,7 +1131,7 @@
           "col": "15",
           "gRow": 10,
           "gCol": 17,
-          "type": "2",
+          "type": "2-3",
           "flag": "0",
           "price": "69"
       },
@@ -1141,7 +1141,7 @@
           "col": "1",
           "gRow": 10,
           "gCol": 1,
-          "type": "1",
+          "type": "1-2",
           "flag": "0",
           "price": "69"
       },
@@ -1191,7 +1191,7 @@
           "col": "2",
           "gRow": 10,
           "gCol": 2,
-          "type": "2",
+          "type": "2-2",
           "flag": "0",
           "price": "69"
       },
@@ -1231,7 +1231,7 @@
           "col": "14",
           "gRow": 10,
           "gCol": 16,
-          "type": "1",
+          "type": "1-3",
           "flag": "0",
           "price": "69"
       },
@@ -1261,7 +1261,7 @@
           "name": "可选",
           "type": "0",
           "seats": 1,
-          "icon": "https://www.xollipop.top/可选.png",
+          "icon": "https://i.postimg.cc/BbbWyY5D/image.png",
           "isShow": "1",
           "position": "up"
       },
@@ -1269,7 +1269,7 @@
           "name": "已选",
           "type": "0-1",
           "seats": 1,
-          "icon": "https://www.xollipop.top/已选.png",
+          "icon": "https://i.postimg.cc/1X2dd93h/image.png",
           "isShow": "1",
           "position": "up"
       },
@@ -1277,7 +1277,7 @@
           "name": "已售",
           "type": "0-2",
           "seats": 1,
-          "icon": "https://www.xollipop.top/已售.png",
+          "icon": "https://i.postimg.cc/LXywzkds/image.png",
           "isShow": "1",
           "position": "up"
       },
@@ -1285,7 +1285,7 @@
           "name": "维修",
           "type": "0-3",
           "seats": 1,
-          "icon": "https://www.xollipop.top/维修.png",
+          "icon": "https://i.postimg.cc/BZVRbCcY/image.png",
           "isShow": "1",
           "position": "up"
       },
@@ -1293,7 +1293,7 @@
           "name": "情侣首座可选",
           "type": "1",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣首座可选.png",
+          "icon": "https://i.postimg.cc/bYVfbP8R/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1301,7 +1301,7 @@
           "name": "情侣首座已选",
           "type": "1-1",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣首座已选.png",
+          "icon": "https://i.postimg.cc/nrC5TsZG/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1309,7 +1309,7 @@
           "name": "情侣首座已售",
           "type": "1-2",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣首座已售.png",
+          "icon": "https://i.postimg.cc/8CS2DPBT/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1317,7 +1317,7 @@
           "name": "情侣首座维修",
           "type": "1-3",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣首座维修.png",
+          "icon": "https://i.postimg.cc/QMJRMG01/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1325,7 +1325,7 @@
           "name": "情侣次座可选",
           "type": "2",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣次座可选.png",
+          "icon": "https://i.postimg.cc/sxLFRYKL/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1333,7 +1333,7 @@
           "name": "情侣次座已选",
           "type": "2-1",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣次座已选.png",
+          "icon": "https://i.postimg.cc/nc68R1Xj/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1341,7 +1341,7 @@
           "name": "情侣次座已售",
           "type": "2-2",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣次座已售.png",
+          "icon": "https://i.postimg.cc/P5ZgB8D6/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1349,7 +1349,7 @@
           "name": "情侣次座维修",
           "type": "2-3",
           "seats": 1,
-          "icon": "https://www.xollipop.top/情侣次座维修.png",
+          "icon": "https://i.postimg.cc/3Jy5FqxQ/image.png",
           "isShow": "0",
           "position": "up"
       },
@@ -1357,7 +1357,7 @@
           "name": "情侣座",
           "type": "5",
           "seats": 2,
-          "icon": "https://www.xollipop.top/情侣座.png",
+          "icon": "https://i.postimg.cc/85kxJK03/image.png",
           "isShow": "1",
           "position": "up"
       }
