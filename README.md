@@ -144,5 +144,4 @@ npm run build
 ### 其他项目
 
 最近开发了一个垃圾分类的小程序 需要的朋友可以关注以下~
-
-![](https://i.postimg.cc/9fgDX670/gh-15fa1fdd771b-1280.jpg)
+<img src="https://i.postimg.cc/9fgDX670/gh-15fa1fdd771b-1280.jpg" width="200" hegiht="300"/>
