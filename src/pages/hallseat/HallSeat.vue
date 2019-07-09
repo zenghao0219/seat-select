@@ -258,7 +258,7 @@ export default {
       if (otherLoveSeatIndex !== null) {
         // 如果选中的是情侣座位 判断选择个数不大于 maxSelect
         if (_selectedSeatList.length >= this.maxSelect - 1) {
-          this.showSlot('最多只能选择' + this.maxSelect + '个座位哦~')
+          alert('最多只能选择' + this.maxSelect + '个座位哦~')
           return
         }
         // 改变这些座位的图标为已选择图标
@@ -273,7 +273,7 @@ export default {
       } else {
         // 如果选中的是非情侣座位 判断选择个数不大于 maxSelect
         if (_selectedSeatList.length >= this.maxSelect) {
-          this.showSlot('最多只能选择' + this.maxSelect + '个座位哦~')
+          alert('最多只能选择' + this.maxSelect + '个座位哦~')
           return
         }
         // 改变这些座位的图标为已选择图标
