@@ -1,7 +1,7 @@
 /*
   @author zenghao0219
   @description 用于快速选座逻辑实现
-  @updateDate 最后更新时间为:2019-07-23
+  @updateDate 最后更新时间为:2019-07-22
 */
 <template>
   <div class='selected'>
