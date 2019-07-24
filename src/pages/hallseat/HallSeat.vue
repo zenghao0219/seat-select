@@ -40,7 +40,7 @@
          <!--中轴线-->
           <div v-show="seatList.length>0" class="middle-line" :style="{height:seatBoxHeight +'rem',left: middleLine +'rem'}"></div>
           <template v-for="(seatItem,index) in seatList" >
-            <div class="seatClass" @click="clickSeat(index)" :key="seatItem.id" :style="{height:height +'rem',width:width +'rem',
+            <div class="seatClass" @click.prevent="clickSeat(index)" :key="seatItem.id" :style="{height:height +'rem',width:width +'rem',
             top:seatItem.gRow * positionDistin +'rem',left:seatItem.gCol * positionDistin +'rem'}"
             >
               <img class="seatImgClass" :seatId="seatItem.id" :seatIndex="index" :src="seatItem.nowIcon"/>
