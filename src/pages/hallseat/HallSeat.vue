@@ -403,6 +403,7 @@ export default {
         display block
         height 35px
         line-height 35px
+        white-space:nowrap
     .thumbnailSeatClass
       position absolute
     .seatBox
