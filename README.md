@@ -87,6 +87,15 @@
 >
 > 5. [axios(不是必须,可替换成其他请求组件)](https://github.com/axios/axios "axios(不是必须,可替换成其他请求组件)")
 
+```
+//vue-touch需要使用@next分支
+npm install vue-touch@next -S 
+npm install amfe-flexible -S
+npm install postcss-px2rem -S
+npm install better-scroll -S
+npm install axios -S
+```
+
 ### 目录结构
 ```
 .public
