@@ -89,10 +89,15 @@
 
 ```
 //vue-touch需要使用@next分支
-npm install vue-touch@next -S 
+
+npm install vue-touch@next -S
+
 npm install amfe-flexible -S
+
 npm install postcss-px2rem -S
+
 npm install better-scroll -S
+
 npm install axios -S
 ```
 
