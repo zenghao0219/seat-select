@@ -83,7 +83,9 @@
 >
 > 3. [better-scroll](https://github.com/ustbhuangyi/better-scroll "better-scroll")
 >
-> 4. [axios](https://github.com/axios/axios "axios")
+> 4. [px2rem-postcss](https://github.com/songsiqi/px2rem-postcss "px2rem-postcss")
+>
+> 5. [axios(不是必须,可替换成其他请求组件)](https://github.com/axios/axios "axios(不是必须,可替换成其他请求组件)")
 
 ### 目录结构
 ```
