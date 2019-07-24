@@ -88,7 +88,7 @@
 > 5. [axios(不是必须,可替换成其他请求组件)](https://github.com/axios/axios "axios(不是必须,可替换成其他请求组件)")
 
 ```
-//vue-touch需要使用@next分支
+*  vue-touch需要使用@next分支
 
 npm install vue-touch@next -S
 
@@ -132,16 +132,16 @@ npm install axios -S
 │           └── SelectedTab.vue --(已选座展示组件)
 └── router.js
 ```
-### 初始化项目 (Project setup)
+### 跑跑试试看,本地运行此项目 (Project setup,Compiles and hot-reloads for development)
 ```
-npm install
-```
+下载代码后在文件目录下运行命令
 
-### 直接运行开发环境 (Compiles and hot-reloads for development)
-```
-npm run serve
-```
+1. npm install 安装全部依赖
 
+(cnpm install 或者 yarn install)
+
+2. npm run serve 运行到开发环境
+```
 ### 项目打包 (Compiles and minifies for production)
 ```
 npm run build
