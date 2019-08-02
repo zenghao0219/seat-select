@@ -15,6 +15,8 @@
 
 - [移动端 seat-select](https://github.com/zenghao0219/seat-select)
 
+- [微信小程序 seat-select-wechat](https://github.com/zenghao0219/seat-select-wechat)
+
 - [后台控制端 seat-select-controller](https://github.com/zenghao0219/seat-select-controller)
 
 - [数据接口端 seat-select-api](https://github.com/zenghao0219/seat-select-api)
@@ -55,6 +57,7 @@
 1. [*磊 (KaelLuo) (¥6.66)](http://github.com/KaelLuo)
 2. *磊 (涅槃) (¥100)
 3. *升平 (¥8.88)
+4. 随影sky (¥66.6)
 </details>
 
 #### 智能选座示例
