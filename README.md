@@ -153,7 +153,9 @@ npm run build
 
 欢迎加群讨论: 3544395 (最近有小伙伴反应搜不到群,还有我这边接不到审核)
 
-如果搜不到的情况 加作者的个人qq 424115114
+如果搜不到的情况 加作者的个人qq 424115114 或者微信 forever_loved
+
+<img src="https://raw.githubusercontent.com/zenghao0219/files-store/master/IMG_2250.JPG" width="200" hegiht="300"/>
 
 ### 项目捐赠
 写代码不易...请作者喝杯咖啡呗?
