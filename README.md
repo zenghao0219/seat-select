@@ -149,12 +149,19 @@ npm run build
 
 <img src="https://raw.githubusercontent.com/zenghao0219/files-store/master/IMG_2250.JPG" width="200" hegiht="300"/>
 
+### 开源详情
+
+当我们使用github或者其它地方的开源项目时候，需要注意开源项目的授权协议。开源不等于免费使用，如果公司使用开源项目时候违反其开源协议，有可能给公司或者个人带来版权纠纷。使用时候需要慎重阅读开源代码提供者的授权条件。
+- 再此说明，代码可以给大家学习甚至商用，但是使用或是转载没有经过作者同意 ，甚至修改代码后删除原作者的项目地址等标识，造成作者损失的，存在法律风险
+
 ### 项目捐赠
 写代码不易...请作者喝杯咖啡呗?
 
 ![](https://github.com/zenghao0219/files-store/blob/master/pay.jpeg?raw=true)
 
 (PS: 支付的时候 请带上你的名字/昵称呀 会维护一个赞助列表~ )
+
+
 
 ### 其他项目
 
