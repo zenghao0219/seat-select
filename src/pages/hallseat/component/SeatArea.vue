@@ -244,7 +244,7 @@ export default {
     },
     // css样式控制.box缩放中心点
     transformOrigin: function () {
-      return this.scaleXCross * 100 + '%' + this.scaleYCross * 100 + '%'
+      return 'center ' + this.scaleYCross * 100 + '%'
     },
     // css样式控制.seat-tool缩放中心点
     transformOriginTool: function () {
