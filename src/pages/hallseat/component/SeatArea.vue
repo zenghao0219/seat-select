@@ -67,6 +67,7 @@ export default {
       seatAreaHeightRem: this.propSeatAreaHeightRem, // 座位区域高  rem
       thumbnailWidthRem: this.propThumbnailAreaWidth, // 缩略图宽 rem
       thumbnailHeighthRem: this.propThumbnailAreaHeight, // 缩略图高 rem
+      seatToolWidth: 0.3, // 0.3为座位栏合适的初始宽度 单位rem
       middleLine: this.propMiddleLine,
       horizontalLine: this.propHorizontalLine,
       // 最大排数
@@ -234,7 +235,7 @@ export default {
     // seat-tool-item 的宽度
     seatToolWidthWithScale: function () {
       let _this = this
-      return 0.3 * _this.scale
+      return _this.seatToolWidth * _this.scale
     },
     // 座位侧边栏需要偏移的长度
     seatToolMargin: function () {
@@ -244,17 +245,20 @@ export default {
     },
     // css样式控制.box缩放中心点
     transformOrigin: function () {
-      return 'center ' + this.scaleYCross * 100 + '%'
+      return this.scaleXCross * 100 + '%' + this.scaleYCross * 100 + '%'
     },
     // css样式控制.seat-tool缩放中心点
     transformOriginTool: function () {
       return '0 ' + this.scaleYCross * 100 + '%'
     },
-    // 缩放.box区域 x轴的中心点
+    // 缩放.box区域 x轴的中心点比例 用于缩放原点
     scaleXCross: function () {
+      // .box的所有尺寸与内部.seatbox的换算比例都是seatScale,例如外部seatAreaWidthRem其实是固定的10rem
+      // 但是因为有了自适应缩放seatScale比例的关系 内部设置的属性都会被乘上seatScale
+      // seatAreaWidthRem/seatScale大小=外部seatAreaWidthRem
       return (this.middleLine / this.seatAreaWidthRem) * this.seatScale
     },
-    // 缩放.box区域 y轴的中心点
+    // 缩放.box区域 y轴的中心点比例 用于缩放原点
     scaleYCross: function () {
       return (this.horizontalLine / this.seatAreaHeightRem) * this.seatScale
     }

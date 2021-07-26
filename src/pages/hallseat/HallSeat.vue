@@ -308,7 +308,7 @@ export default {
       let screenRem = (document.body.clientWidth || window.innerWidth || document.documentElement.clientWidth) / 10
       let height = document.documentElement.clientHeight || window.innerHeight || document.body.clientHeight
       // 除了座位区域的大小
-      let otherDom = 1.08 + 1.2 + 1.2 + 1.87 + 0.67 + 1.2// 头+排期信息+座位示例 +底部快捷选择+确认按钮
+      let otherDom = 1.08 + 1.2 + 1.2 + 0.67 + 1.87 + 1.2// 头+排期信息+座位示例+屏幕方向区域+底部快捷选择+确认按钮
       // 剩下的座位区域的大小
       return height / screenRem - otherDom
     },
@@ -334,10 +334,12 @@ export default {
     },
     // 竖中轴线
     middleLine: function () {
+      // 0.025是.middle-line线本身宽度的一半 也需要居中
       return ((this.xMax / 2) + 1) * this.positionDistin - 0.025
     },
     // 横中轴线
     horizontalLine: function () {
+      // 0.025是.horizontal-line线本身宽度的一半 也需要居中
       return ((this.yMax / 2) + 1) * this.positionDistin - 0.025
     },
     // 根据影厅的大小缩放比例(需要把影厅全部显示出来)
@@ -354,10 +356,12 @@ export default {
     },
     // class 为 seatBox 的高度值 单位为rem
     seatBoxHeight: function () {
+      // 纵轴总数量+1 * 座位偏移值 + 一个座位高度
       return (this.yMax + 1) * this.positionDistin + this.height
     },
     // class 为 seatBox 的宽度值 单位为rem
     seatBoxWidth: function () {
+      // 横轴总数量+1 * 座位偏移值 + 一个座位宽度
       return (this.xMax + 1) * this.positionDistin + this.width
     },
     // 缩略图宽 rem
